@@ -2,7 +2,7 @@
 
 A responsive landing page for **DevConf 2026**, a fictional 3-day developer conference. Built as an assignment for **Programming Hero, Batch 14**, focused on structuring a real-world event site with semantic HTML and pure CSS — no frameworks.
 
-**🔗 Live Demo:** _add your live link here_
+**🔗 Live Demo: https://asgorfaiyaz.github.io/devconf-A01
 
 ## 🛠️ Built With
 
@@ -44,6 +44,5 @@ No build step or installation required.
 
 ## 🔗 Links
 
-- **Live Site:** _add your live link here_
-- **Repository:** _add your repository link here_
+- **Live Site: https://asgorfaiyaz.github.io/devconf-A01
 - **Course:** [Programming Hero](https://www.programming-hero.com/) — Batch 14
